@@ -430,7 +430,7 @@ _.extend(Story.prototype, {
 		window.passage = passage;
 
 		$('#passage').html(passage.render()).fadeIn('slow');
-		$('html, body').animate({scrollTop: $("#passage").offset().top}, 1000);
+		$('html, body, .scroll-shadows').animate({scrollTop: $("#passage").offset().top}, 1000);
 		this.pcolophon();
 
 		/**

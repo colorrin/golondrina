@@ -40,6 +40,10 @@ See [the Snowman docs](https://bitbucket.org/klembot/snowman-2/) for more detail
 
 ## Versions
 
+### 1.1.4
+
+Mobile Viewport + Scroll Shadows.
+
 ### 1.1.1
 
 Fixed iPhone CSS issue.
